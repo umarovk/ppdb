@@ -1,7 +1,7 @@
 <?php
 
 //koneksi database (host server, username, password, database)
-$conn = mysqli_connect("localhost", "root", "", "ppdb2023a");
+$conn = mysqli_connect("localhost", "root", "", "ppdb2025");
 
 function query($query)
 {
